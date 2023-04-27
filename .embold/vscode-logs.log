@@ -1,0 +1,5 @@
+2023-04-28 01:39:30 info: tempDirectory:/Users/test/.vscode/extensions/embold-vscode.embold-0.1.4/temp
+2023-04-28 01:39:30 info: Extraction complete for source: /Users/test/.vscode/extensions/embold-vscode.embold-0.1.4/resources/embold-scanner-archive.zip, destination: /Users/test/.vscode/extensions/embold-vscode.embold-0.1.4/temp
+2023-04-28 01:39:30 info: Congratulations, your extension "Embold" is now active!
+2023-04-28 01:39:34 info: file:///Users/test/Downloads/Projects/REACT%20project/weather-app/.git/index.lock
+2023-04-28 01:39:34 error: SQLITE_ERROR: no such table: issues
